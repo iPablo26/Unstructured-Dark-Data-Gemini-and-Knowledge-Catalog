@@ -1,0 +1,7 @@
+{
+  "compliance_classifications": "UL-153 Portable Luminaires, FCC Part 15, CE-LVD, RoHS",
+  "stewardship_owner": "Global Hardware Safety & Lighting Systems Engineering",
+  "retention_policy": "10-Year Active Product Lifecycle Archival",
+  "lakehouse_cross_ref_table": "lakehouse.build-with-ai-488112.retail_hardware.luminaire_sku_inventory_iceberg",
+  "governance_status": "VERIFIED_PRODUCTION"
+}
